@@ -470,7 +470,7 @@
   .landing-nw-user .text-wrapper-13{
     position: absolute;
     top: 49px;
-    left: 3px;
+    left: -13px;
     font-family: "Outfit", Helvetica;
     font-weight: 500;
     color: #000000;
@@ -498,7 +498,7 @@
   .landing-nw-user .text-wrapper-14{
     position: absolute;
     top: 49px;
-    left: 4px;
+    left: -14px;
     font-family: "Outfit", Helvetica;
     font-weight: 500;
     color: #000000;
@@ -1068,7 +1068,7 @@
   width: 325px;
   height: 316px;
   top: 2340px;
-  left: 45px;
+  left: 35px;
   justify-content: center;
 }
 .landing-nw-user .text-wrapper-77{
@@ -1857,7 +1857,7 @@
    }
    #overlay1 {
     position: absolute;
-    top: 3720px;
+    top: 3710px;
     left: 23%;
    }
   .landing-nw-user .text-wrapper-7{
@@ -1941,7 +1941,7 @@
   }
   .landing-nw-user .text-wrapper-5{
       position: absolute;
-      top: 3468px;
+      top: 3473px;
       }
     .landing-nw-user .group-35 {
       position: absolute;
