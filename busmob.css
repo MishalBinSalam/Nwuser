@@ -1,0 +1,2496 @@
+@media screen and (max-width: 640px)
+{
+  *{
+    box-sizing: border-box;
+  }
+ .landing-nw-shop {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .landing-nw-shop .div {
+    background-color: #ffffff;
+    width: 390px;
+    height: auto;
+    position: relative;
+  }
+  
+  .landing-nw-shop .SEAMLESS-GROWTH {
+    position: absolute;
+    width: 358px;
+    top: 128px;
+    left: 17px;
+    background: linear-gradient(
+      90deg,
+      rgb(18, 57, 105) 0%,
+      rgb(70.95, 116.88, 173.4) 50.52%,
+      rgb(159.14, 200.59, 251.6) 100%
+    );
+    -webkit-background-clip: text !important;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-family: "Unbounded", Helvetica;
+    font-weight: 600;
+    color: transparent;
+    font-size: 42px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: pre-line;
+  }
+  
+  .landing-nw-shop .text-wrapper {
+    position: absolute;
+    top: 1112px;
+    left: 130px;
+    font-family: "Unbounded", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .landing-nw-shop .text-wrapper-2 {
+    position: absolute;
+    top: 1830px;
+    left: 105px;
+    font-family: "Unbounded", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-nw-shop .text-wrapper-3 {
+    position: absolute;
+    top: 3700px;
+    left: 85px;
+    font-family: "Unbounded", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  .landing-nw-shop .text-wrapper-77 {
+    position: absolute;
+    top: 2550px;
+    left: 115px;
+    font-family: "Unbounded", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-nw-shop .group {
+    position: absolute;
+    width: 358px;
+    height: 216px;
+    top: 681px;
+    left: 16px;
+    transform: scale(1.0);
+    overflow: hidden;
+  }
+  
+  .landing-nw-shop .overlap-group {
+    position: relative;
+    width: 375px;
+    height: 240px;
+    top: -15px;
+  }
+  
+  .landing-nw-shop .mockup {
+    position: absolute;
+    width: 77px;
+    height: 153px;
+    top: 69px;
+    left: 0;
+  }
+  
+  .landing-nw-shop .iphone {
+    position: absolute;
+    width: 107px;
+    height: 185px;
+    top: -15px;
+    left: -15px;
+  }
+  
+  .landing-nw-shop .img {
+    position: absolute;
+    width: 110px;
+    height: 185px;
+    top: 54px;
+    left: 265px;
+  }
+  
+  .landing-nw-shop .iphone-wrapper {
+    position: absolute;
+    width: 86px;
+    height: 169px;
+    top: 43px;
+    left: 67px;
+  }
+  
+  .landing-nw-shop .iphone-2 {
+    position: absolute;
+    width: 118px;
+    height: 201px;
+    top: -15px;
+    left: -18px;
+  }
+  
+  .landing-nw-shop .mockup-2 {
+    position: absolute;
+    width: 118px;
+    height: 201px;
+    top: 29px;
+    left: 199px;
+  }
+  
+  .landing-nw-shop .mockup-3 {
+    position: absolute;
+    width: 126px;
+    height: 217px;
+    top: 0;
+    left: 118px;
+  }
+  
+  .landing-nw-shop .group-2 {
+    position: absolute;
+    width: 390px;
+    top: -35px;
+    left: 0px;
+  }
+  
+  .landing-nw-shop .frame {
+    position: absolute;
+    width: 200px;
+    height: 48px;
+    top: 545px;
+    left: 95px;
+    background-color: #123969;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0px 1.46px 32px #0000001a;
+  }
+  
+  .landing-nw-shop .group-3 {
+    position: relative;
+    width: 154px;
+    height: 28px;
+    top: 10px;
+    left: 24px;
+  }
+  
+  .landing-nw-shop .text-wrapper-4 {
+    position: absolute;
+    top: 5px;
+    left: 0;
+    font-family: "Outfit", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-nw-shop .play-store-svgrepo {
+    position: absolute;
+    width: 28px;
+    height: 28px;
+    top: 0;
+    left: 95px;
+  }
+  
+  .landing-nw-shop .app-store-svgrepo {
+    position: absolute;
+    width: 28px;
+    height: 28px;
+    top: 0;
+    left: 124px;
+    overflow: hidden;
+  }
+  
+  .landing-nw-shop .group-wrapper {
+    position: absolute;
+    width: 200px;
+    height: 48px;
+    top: 603px;
+    left: 95px;
+    background-color: #123969;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0px 1.46px 32px #0000001a;
+    border: none;
+  }
+  
+  .landing-nw-shop .group-4 {
+    position: relative;
+    width: 141px;
+    height: 28px;
+    top: 0px;
+    left: 23px;
+  }
+  
+  .landing-nw-shop .div-wrapper {
+    position: absolute;
+    width: 113px;
+    height: 18px;
+    top: 5px;
+    left: 0;
+  }
+  
+  .landing-nw-shop .text-wrapper-5 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "Outfit", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-nw-shop .shop-svgrepo-com {
+    position: absolute;
+    width: 28px;
+    height: 28px;
+    top: 0;
+    left: 113px;
+  }
+  
+  .landing-nw-shop .p {
+    position: absolute;
+    width: 358px;
+    top: 354px;
+    left: 16px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 300;
+    color: #000000;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-nw-shop .frame-2 {
+    position: absolute;
+    width: 358px;
+    height: 290px;
+    top: 3770px;
+    left: 16px;
+    background-color: #ffffff;
+    border-radius: 5.39px;
+    overflow: hidden;
+    box-shadow: 0px 0.49px 11.31px #00000026;
+  }
+  
+    .landing-nw-shop .overlap {
+     position: absolute;
+     width: 346px;
+     height: 200px;
+     top: 5px;
+     left: 10px;
+  }
+
+  
+  .landing-nw-shop .group-5 {
+    position: absolute;
+    width: 346px;
+    height: 200px;
+    top: 0;
+    left: 0;
+  }
+  
+  .landing-nw-shop .group-6 {
+    position: absolute;
+    width: 57px;
+    height: 88px;
+    top: 4px;
+    left: 12px;
+  }
+  
+  .landing-nw-shop .click-the-button-to-wrapper {
+    position: absolute;
+    width: 59px;
+    height: 30px;
+    top: 58px;
+    left: 0;
+  }
+  
+  .landing-nw-shop .div-2 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "Outfit", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 8.2px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-nw-shop .download-svgrepo-com {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    top: 0;
+    left: 3px;
+  }
+  
+  .landing-nw-shop .group-7 {
+    position: absolute;
+    width: 68px;
+    height: 88px;
+    top: 4px;
+    left: 92px;
+  }
+  
+  .landing-nw-shop .open-the-app-and-wrapper {
+    position: absolute;
+    width: 70px;
+    height: 30px;
+    top: 58px;
+    left: 0;
+  }
+  
+  .landing-nw-shop .login-svgrepo-com {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    top: 0;
+    left: 8px;
+  }
+  
+  .landing-nw-shop .overlap-group-2 {
+    position: relative;
+    height: 127px;
+  }
+  
+  .landing-nw-shop .vector {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    top: 0px;
+    left: 0;
+  }
+  
+  .landing-nw-shop .group-8 {
+    position: absolute;
+    width: 80px;
+    height: 40px;
+    top: 62px;
+    left: 172px;
+  }
+  
+  .landing-nw-shop .group-9 {
+    position: absolute;
+    width: 82px;
+    height: 102px;
+    top: 0;
+    left: 24px;
+  }
+  
+  .landing-nw-shop .text-wrapper-6 {
+    position: absolute;
+    width: 49px;
+    top: 12px;
+    left: 0px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 8.2px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .landing-nw-shop .group-10 {
+    position: absolute;
+    width: 84px;
+    height: 94px;
+    top: 105px;
+    left: 0;
+  }
+  
+  .landing-nw-shop .enter-the-OTP-send-wrapper {
+    position: relative;
+    width: 80px;
+    height: 40px;
+    top: -45px;
+    left: 165px;
+  }
+  
+  .landing-nw-shop .group-11 {
+    position: absolute;
+    width: 75px;
+    height: 91px;
+    top: 107px;
+    left: 101px;
+  }
+  
+  .landing-nw-shop .from-the-home-screen-wrapper {
+    position: absolute;
+    width: 84px;
+    height: 40px;
+    top: -47px;
+    left: 155px;
+  }
+  
+  .landing-nw-shop .span {
+    font-family: "Outfit", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 8.2px;
+    letter-spacing: 0;
+  }
+  
+  .landing-nw-shop .text-wrapper-7 {
+    font-family: "Outfit", Helvetica;
+    font-weight: 600;
+  }
+  
+  .landing-nw-shop .frame-3 {
+    position: absolute;
+    width: 55px;
+    height: 55px;
+    top: -105px;
+    left: 165px;
+  }
+  
+  .landing-nw-shop .group-12 {
+    position: absolute;
+    width: 204px;
+    height: 249px;
+    top: 31px;
+    left: 0px;
+  }
+  
+  .landing-nw-shop .click-on-add-BV-wrapper {
+    position: absolute;
+    width: 86px;
+    height: 40px;
+    top: 134px;
+    left: 5px;
+  }
+  
+  .landing-nw-shop .money-bag-money {
+    position: absolute;
+    width: 55px;
+    height: 55px;
+    top: 80px;
+    left: 18px;
+    background-image: url(./img1/money.png);
+    background-size: 100% 100%;
+  }
+  
+  .landing-nw-shop .overlap-group-3 {
+    position: relative;
+    width: 101px;
+    height: 113px;
+    top: 11px;
+    left: 10px;
+  }
+  
+  .landing-nw-shop .vector-8 {
+    position: absolute;
+    width: 21px;
+    height: 13px;
+    top: 2px;
+    left: 57px;
+  }
+  
+  .landing-nw-shop .vector-9 {
+    position: absolute;
+    width: 55px;
+    height: 74px;
+    top: 0;
+    left: 41px;
+  }
+  
+  .landing-nw-shop .group-13 {
+    position: absolute;
+    width: 48px;
+    height: 43px;
+    top: 31px;
+    left: 48px;
+  }
+  
+  .landing-nw-shop .group-14 {
+    position: absolute;
+    width: 66px;
+    height: 83px;
+    top: 17px;
+    left: 12px;
+  }
+  
+  .landing-nw-shop .vector-10 {
+    position: absolute;
+    width: 80px;
+    height: 31px;
+    top: 61px;
+    left: 21px;
+  }
+  
+  .landing-nw-shop .vector-11 {
+    position: absolute;
+    width: 64px;
+    height: 25px;
+    top: 67px;
+    left: 35px;
+  }
+  
+  .landing-nw-shop .vector-12 {
+    position: absolute;
+    width: 37px;
+    height: 35px;
+    top: 78px;
+    left: 0;
+  }
+  
+  .landing-nw-shop .group-15 {
+    position: absolute;
+    width: 31px;
+    height: 2px;
+    top: 65px;
+    left: 70px;
+  }
+  
+  .landing-nw-shop .text-wrapper-8 {
+    position: absolute;
+    top: 32px;
+    left: 55px;
+    -webkit-text-stroke: 0.18px #000000;
+    font-family: "Outfit", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 18.2px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-nw-shop .group-16 {
+    position: absolute;
+    width: 181px;
+    height: 225px;
+    top: 110px;
+    left: 100px;
+  }
+  
+  .landing-nw-shop .witness-immense-wrapper {
+    position: absolute;
+    width: 183px;
+    height: 75px;
+    top: 55px;
+    left: 0;
+  }
+  
+  .landing-nw-shop .progression-svgrepo {
+    position: absolute;
+    width: 56px;
+    height: 54px;
+    top: 0;
+    left: 8px;
+  }
+  .landing-nw-shop .group-17 {
+    position: absolute;
+    width: 0px;
+    height: 0px;
+    top: -100px;
+  }
+  
+  .landing-nw-shop .group-97 {
+    position: absolute;
+    width: 11px;
+    height: 10px;
+    top: 23px;
+    left: 73px;
+  }
+  .landing-nw-shop .rearr{
+    position: absolute;
+    width: 11px;
+    height: 10px;
+    top: 140px;
+    left: 83px;
+  }
+  .landing-nw-shop .rearr1{
+    position: absolute;
+    width: 11px;
+    height: 10px;
+    top: 23px;
+    left: 243px;
+  }
+  .landing-nw-shop .rearr2{
+    position: absolute;
+    width: 11px;
+    height: 10px;
+    top: 23px;
+    left: 160px;
+  }
+  .landing-nw-shop .vector-13 {
+    position: absolute;
+    width: 55px;
+    height: 55px;
+    top: 3px;
+    left: 180px;
+  }
+  
+  .landing-nw-shop .group-18 {
+    position: absolute;
+    top: 36px;
+    left: 29px;
+  }
+  
+  .landing-nw-shop .frame-4 {
+    position: absolute;
+    width: 150px;
+    height: 36px;
+    top: 200px;
+    left: 160px;
+    background-color: #123969;
+    border-radius: 6px;
+    overflow: hidden;
+    box-shadow: 0px 1.82px 39.77px #0000001a;
+    border: none;
+  }
+  
+  .landing-nw-shop .group-19 {
+    position: relative;
+    width: 115px;
+    height: 21px;
+    top: 0px;
+    left: 13px;
+  }
+  
+  .landing-nw-shop .group-20 {
+    position: absolute;
+    width: 175px;
+    height: 27px;
+    top: 7px;
+    left: 0;
+  }
+  
+  .landing-nw-shop .text-wrapper-9 {
+    position: absolute;
+    top: -5px;
+    left: -2px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-nw-shop .shop-svgrepo-com-2 {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    top: -2px;
+    left: 93px;
+  }
+  
+  .landing-nw-shop .frame-5 {
+    position: absolute;
+    width: 150px;
+    height: 36px;
+    top: 200px;
+    left: -10px;
+    background-color: #123969;
+    border-radius: 6px;
+    overflow: hidden;
+    box-shadow: 0px 2px 43.64px #0000001a;
+    border: none;
+  }
+  
+  .landing-nw-shop .group-21 {
+    position: relative;
+    width: 230px;
+    height: 42px;
+    top: 2px;
+    left: 9px;
+  }
+  
+  .landing-nw-shop .text-wrapper-10 {
+    position: absolute;
+    top: 6px;
+    left: -5px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-nw-shop .overlap-group-4 {
+    position: absolute;
+    width: 81px;
+    height: 42px;
+    top: 4px;
+    left: 3px;
+  }
+  
+  .landing-nw-shop .play-store-svgrepo-2 {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    top: -2px;
+    left: 73px;
+  }
+  
+  .landing-nw-shop .app-store-svgrepo-2 {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    top: -2px;
+    left: 96px;
+  }
+  
+  .landing-nw-shop .lorem-ipsum-dolor {
+    position: absolute;
+    width: 358px;
+    top: 1512px;
+    left: 16px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 300;
+    color: #000000;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-nw-shop .lorem-ipsum-dolor-2 {
+    position: absolute;
+    width: 358px;
+    top: 2230px;
+    left: 16px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 300;
+    color:  #000000;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  .landing-nw-shop .lorem-ipsum-dolor-3 {
+    top: 2940px;
+    left: 16px;
+    position: absolute;
+    width: 358px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 300;
+    color: #000000;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  .landing-nw-shop .frame-6 {
+    position: absolute;
+    width: 0px;
+    height: 0px;
+    top: 16px;
+    left: 0;
+  }
+  
+  .landing-nw-shop .group-22 {
+    position: absolute;
+    width: 152px;
+    height: 27px;
+    top: 14px;
+    left: 16px;
+  }
+  
+  .landing-nw-shop .XMLID {
+    width: 48px;
+    height: 24px;
+    top: 0;
+    left: 4px;
+    position: absolute;
+  }
+  
+  .landing-nw-shop .XMLID-2 {
+    width: 94px;
+    top: 1px;
+    left: 56px;
+    color: #123969;
+    font-size: 20px;
+    position: absolute;
+    font-family: "Fredoka One", Helvetica;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .landing-nw-shop .group-23 {
+    position: absolute;
+    width: 102px;
+    height: 18px;
+    top: 19px;
+    left: 275px;
+  }
+  
+  .landing-nw-shop .XMLID-3 {
+    position: absolute;
+    width: 30px;
+    height: 14px;
+    top: 3px;
+    left: 0;
+  }
+
+  .landing-nw-shop .XMLID-4 {
+    position: absolute;
+    width: 63px;
+    top: -2px;
+    left: 33px;
+    font-family: "Fredoka One", Helvetica;
+    font-weight: 500;
+    color: #d4212a;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  .landing-nw-shop .arr3{
+    position: absolute;
+    top: 5px;
+    left: 93px;
+    width: 11px;
+    height: 10px;
+  }
+  .landing-nw-shop .text-wrapper-11 {
+    position: absolute;
+    top: 12px;
+    left: 40px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 300;
+    color: #d4212a;
+    font-size: 6.2px;
+    letter-spacing: 0.62px;
+    line-height: normal;
+  }
+  
+  .landing-nw-shop .business-growth {
+    position: absolute;
+    width: 344px;
+    height: 316px;
+    top: 1904px;
+    left: 23px;
+  }
+  
+  .landing-nw-shop .helping-a-partner {
+    position: absolute;
+    width: 301px;
+    height: 316px;
+    top: 1186px;
+    left: 45px;
+  }
+  .landing-nw-shop .groww {
+    position: absolute;
+    width: 301px;
+    height: 316px;
+    top: 2612px;
+    left: 45px;
+  }
+  
+  .landing-nw-shop .text-wrapper-12 {
+    top: 4110px;
+    left: 123px;
+    font-family: "Unbounded", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 18px;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-nw-shop .frame-7 {
+    position: absolute;
+    width: 358px;
+    height: 720px;
+    top: 4200px;
+    left: 16px;
+    background-color: #ffffff;
+    box-shadow: 0px 0.48px 10.96px #0000001a;
+  }
+  
+  .landing-nw-shop .frame-8 {
+    position: absolute;
+    width: 358px;
+    height: 351px;
+    top: 0px;
+    left: 0px;
+    border-radius: 11px 11px 0px 0px;
+    overflow: hidden;
+    background: linear-gradient(
+      90deg,
+      rgb(18, 57, 105) 0%,
+      rgb(70.95, 116.88, 173.4) 50.52%,
+      rgb(159.14, 200.59, 251.6) 100%
+    );
+  }
+  .landing-nw-shop .fill-up-the-form-and {
+    position: absolute;
+    width: 334px;
+    top: 64px;
+    left: 12px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 19.2px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-nw-shop .text-wrapper-13 {
+    position: absolute;
+    top: 157px;
+    left: 130px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-nw-shop .text-wrapper-14 {
+    position: absolute;
+    top: 205px;
+    left: 130px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-nw-shop .text-wrapper-15 {
+    position: absolute;
+    top: 250px;
+    left: 130px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-nw-shop .ellipse {
+    width: 159px;
+    height: 159px;
+    top: -113px;
+    left: 142px;
+    border-radius: 79.52px;
+    position: absolute;
+    background: linear-gradient(
+      90deg,
+      rgb(18, 57, 105) 0%,
+      rgb(70.95, 116.88, 173.4) 50.52%,
+      rgb(159.14, 200.59, 251.6) 100%
+    );
+  }
+  
+  .landing-nw-shop .ellipse-2 {
+    width: 68px;
+    height: 68px;
+    top: -100px;
+    left: 101px;
+    border-radius: 33.8px;
+    position: absolute;
+    background: linear-gradient(
+      90deg,
+      rgb(18, 57, 105) 0%,
+      rgb(70.95, 116.88, 173.4) 50.52%,
+      rgb(159.14, 200.59, 251.6) 100%
+    );
+  }
+  
+  .landing-nw-shop .text-wrapper-16 {
+    top: 15px;
+    left: 90px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 30.9px;
+    text-align: center;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-nw-shop .vector-14 {
+    position: absolute;
+    width: 19px;
+    height: 20px;
+    top: 206px;
+    left: 100px;
+  }
+  
+  .landing-nw-shop .page {
+    position: absolute;
+    width: 19px;
+    height: 15px;
+    top: 163px;
+    left: 97px;
+  }
+  
+  .landing-nw-shop .group-24 {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    top: 252px;
+    left: 99px;
+  }
+  
+  .landing-nw-shop .group-25 {
+    position: relative;
+    width: 315px;
+    height: 241px;
+    top: 240px;
+    left: 0px;
+  }
+  input[type=submit] {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: 'outfit', Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 12.1px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-nw-shop .frame-9 {
+    width: 111px;
+    height: 40px;
+    top: 360px;
+    left: 122px;
+    border-radius: 4.84px;
+    box-shadow: 0px 0.89px 20.82px #0000001a;
+    position: relative;
+    background-color: #123969;
+    overflow: hidden;
+  }
+  
+  .landing-nw-shop .group-26 {
+    position: relative;
+    width: 112px;
+    height: 21px;
+    top: 31px;
+    left: 49px;
+  }
+  
+  .landing-nw-shop .text-wrapper-17 {
+    left: 0;
+    position: absolute;
+    top: 0;
+    font-family: "Outfit", Helvetica;
+    font-weight: 300;
+    color: #757472;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-nw-shop .text-wrapper-18 {
+    left: 328px;
+    position: absolute;
+    top: 0;
+    font-family: "Outfit", Helvetica;
+    font-weight: 300;
+    color: #757472;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-nw-shop .text-wrapper-19 {
+    position: absolute;
+    top: 159px;
+    left: 0;
+    font-family: "Outfit", Helvetica;
+    font-weight: 300;
+    color: #757472;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-nw-shop .text-wrapper-20 {
+    position: absolute;
+    top: 159px;
+    left: 328px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 300;
+    color: #757472;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  ::placeholder {
+    position: absolute;
+    top: 3%;
+    left: 0;
+    font-family: "Outfit", Helvetica;
+    font-weight: 300;
+    color: #757472;
+    font-size: 12.1px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  .text-line4::placeholder {
+    position: absolute;
+    top: 42%;
+    left: 95px;
+  }
+  .landing-nw-shop .zero{
+    top:  145px;
+    left: 27px;
+    position: relative;
+  }
+  .landing-nw-shop .one{
+    top: 125px;
+    left: 200px;
+    position: relative;
+  }
+  .landing-nw-shop .two{
+    top:  175px;
+    left: 200px;
+    position: relative;
+  }
+  .landing-nw-shop .three{
+    top: 154px;
+    left: 27px;
+    position: relative;
+    height: 1px;
+  }
+  
+  .landing-nw-shop .text-line {
+    top: 90px;
+    left: 0px;
+    background-color: transparent;
+    color: #000000;
+    outline: none;
+    width: 40%;
+    outline-style: none;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: solid #000000 1px;
+    
+  }
+  
+  .landing-nw-shop .text-line1 {
+    top: 190px;
+    left: 550px;
+    background-color: transparent;
+    color: #000000;
+    outline: none;
+    width: 40%;
+    outline-style: none;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: solid #000000 1px;
+    
+  }
+  
+  .landing-nw-shop .text-wrapper-21 {
+    position: absolute;
+    top: 318px;
+    left: 0;
+    font-family: "Outfit", Helvetica;
+    font-weight: 300;
+    color: #757472;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-nw-shop .text-line2 {
+    top: 31px;
+    left: 0;
+    background-color: transparent;
+    color: #000000;
+    outline: none;
+    width: 40%;
+    outline-style: none;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: solid #000000 1px;
+    
+  }
+  
+  .landing-nw-shop .text-line3 {
+    top: 31px;
+    left: 328px;
+    background-color: transparent;
+    color: #000000;
+    outline: none;
+    width: 40%;
+    outline-style: none;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: solid #000000 1px;
+  }
+  
+  .landing-nw-shop .text-line4 {
+    width: 295px;
+    height: 80px;
+    top: 297px;
+    left: 27px;
+    position: absolute;
+    object-fit: cover;
+    color: #000000;
+    border-radius: 11px;
+  }
+  
+  .landing-nw-shop .text-wrapper-22 {
+    position: absolute;
+    top: 4125px;
+    left: 27px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 400;
+    color: #9e9e9e;
+    font-size: 12px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-nw-shop .frame-10 {
+    position: relative;
+    width: 100%;
+    height: 615px;
+    top: 5000px;
+    left: 0px;
+    background-color: #123969;
+  }
+  
+  .landing-nw-shop .group-27 {
+    position: absolute;
+    width: 152px;
+    height: 71px;
+    top: 447px;
+    left: 115px;
+  }
+  
+  .landing-nw-shop .XMLID-5 {
+    position: absolute;
+    width: 81px;
+    height: 43px;
+    top: 0;
+    left: 36px;
+  }
+  
+  .landing-nw-shop .XMLID-6 {
+    position: absolute;
+    width: 150px;
+    top: 44px;
+    left: 0;
+    font-family: "Fredoka One", Helvetica;
+    font-weight: 300;
+    color: #ffffff;
+    font-size: 35.3px;
+  }
+  
+  .landing-nw-shop .text-wrapper-23 {
+    position: absolute;
+    top: 568px;
+    left: 114px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 10px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-nw-shop .group-28 {
+    position: absolute;
+    width: 163px;
+    height: 166px;
+    top: 47px;
+    left: 110px;
+  }
+  
+  .landing-nw-shop .text-wrapper-24 {
+    position: absolute;
+    top: 44px;
+    left: 46px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-nw-shop .text-wrapper-99{
+    position: absolute;
+    top: 73px;
+    left: 60px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-nw-shop .text-wrapper-25 {
+    position: absolute;
+    top: 102px;
+    left: 30px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-nw-shop .text-wrapper-26 {
+    position: absolute;
+    top: 131px;
+    left: 30px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-nw-shop .terms-conditions {
+    position: absolute;
+    top: 160px;
+    left: 5px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  .landing-nw-shop .text-wrapper-27{
+    position: absolute;
+    top: 0;
+    left: 15px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 25px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-nw-shop .group-29 {
+    position: absolute;
+    width: 196px;
+    height: 106px;
+    top: 270px;
+    left: 98px;
+  }
+  
+  .landing-nw-shop .text-wrapper-28 {
+    position: absolute;
+    top: 20px;
+    left: 42px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 25px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-nw-shop .instagram-svgrepo {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 71px;
+    left: 0;
+  }
+  
+  .landing-nw-shop .facebook-svgrepo-com {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    top: 66px;
+    left: 49px;
+  }
+  
+  .landing-nw-shop .pinterest-logo {
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    top: 69px;
+    left: 105px;
+  }
+  
+  .landing-nw-shop .twitter-svgrepo {
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    top: 70px;
+    left: 158px;
+  }
+  
+  .landing-nw-shop .text-wrapper-29 {
+    position: absolute;
+    top: 583px;
+    left: 97px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 8px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-nw-shop .text-wrapper-30 {
+    position: absolute;
+    top: 923px;
+    left: 83px;
+    font-family: "Unbounded", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .landing-nw-shop .frame-wrapper {
+    position: absolute;
+    width: 358px;
+    height: 101px;
+    top: 977px;
+    left: 16px;
+    background-color: #ffffff;
+    border-radius: 5.59px;
+    overflow: hidden;
+    box-shadow: 0px 0.51px 11.75px #0000001a;
+  }
+  
+  .landing-nw-shop .frame-11 {
+    position: relative;
+    width: 329px;
+    height: 85px;
+    top: 8px;
+    left: 15px;
+    white-space: nowrap;
+    display: inline-block;
+    animation: scroll 20s linear infinite;
+  }
+  @keyframes scroll {
+    0% {
+      transform: translateX(0);
+    }
+    100% {
+      transform: translateX(-360%);
+    }
+  }
+  
+  .landing-nw-shop .group-30 {
+    position: absolute;
+    width: 65px;
+    height: 80px;
+    top: 6px;
+    left: 7px;
+  }
+  
+  .landing-nw-shop .frame-12 {
+    position: absolute;
+    width: 63px;
+    height: 63px;
+    top: 0;
+    left: 0;
+    border-radius: 42.02px;
+    box-shadow: 0px 0px 1.68px #00000059;
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .landing-nw-shop .text-wrapper-31 {
+    position: absolute;
+    width: 51px;
+    top: 67px;
+    left: 7px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 10.5px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-nw-shop .group-31 {
+    position: absolute;
+    width: 65px;
+    height: 82px;
+    top: 4px;
+    left: 91px;
+  }
+  
+  .landing-nw-shop .frame-13 {
+    position: absolute;
+    width: 63px;
+    height: 63px;
+    top: 0;
+    left: 0;
+    border-radius: 42.02px;
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .landing-nw-shop .text-wrapper-32 {
+    position: absolute;
+    top: 69px;
+    left: 9px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 10.5px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-nw-shop .group-32 {
+    position: absolute;
+    width: 73px;
+    height: 82px;
+    top: 4px;
+    left: 172px;
+  }
+  
+  .landing-nw-shop .frame-14 {
+    position: absolute;
+    width: 63px;
+    height: 63px;
+    top: 0;
+    left: 3px;
+    border-radius: 42.02px;
+    box-shadow: 0px 0px 3px #00000059;
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .landing-nw-shop .text-wrapper-33 {
+    position: absolute;
+    top: 69px;
+    left: 0;
+    font-family: "Outfit", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 10.5px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-nw-shop .group-33 {
+    position: absolute;
+    width: 65px;
+    height: 82px;
+    top: 4px;
+    left: 259px;
+  }
+  
+  .landing-nw-shop .frame-15 {
+    position: absolute;
+    width: 63px;
+    height: 63px;
+    top: 0;
+    left: 0;
+    border-radius: 42.02px;
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .landing-nw-shop .text-wrapper-34 {
+    position: absolute;
+    top: 69px;
+    left: 14px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 10.5px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-nw-shop .group-34 {
+    position: absolute;
+    width: 69px;
+    height: 82px;
+    top: 4px;
+    left: 343px;
+  }
+  
+  .landing-nw-shop .frame-16 {
+    position: absolute;
+    width: 63px;
+    height: 63px;
+    top: 0;
+    left: 0;
+    border-radius: 42.02px;
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .landing-nw-shop .text-wrapper-35 {
+    position: absolute;
+    top: 69px;
+    left: 1px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 10.5px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-nw-shop .group-35 {
+    position: absolute;
+    width: 65px;
+    height: 82px;
+    top: 4px;
+    left: 427px;
+  }
+  
+  .landing-nw-shop .frame-17 {
+    position: absolute;
+    width: 63px;
+    height: 63px;
+    top: 0;
+    left: 0;
+    border-radius: 42.02px;
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .landing-nw-shop .text-wrapper-36 {
+    position: absolute;
+    top: 69px;
+    left: 3px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 10.5px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-nw-shop .group-36 {
+    position: absolute;
+    width: 65px;
+    height: 82px;
+    top: 4px;
+    left: 511px;
+  }
+  
+  .landing-nw-shop .frame-18 {
+    position: absolute;
+    width: 63px;
+    height: 63px;
+    top: 0;
+    left: 0;
+    border-radius: 42.02px;
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .landing-nw-shop .text-wrapper-37 {
+    position: absolute;
+    top: 69px;
+    left: 6px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 10.5px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-nw-shop .group-37 {
+    position: absolute;
+    width: 97px;
+    height: 82px;
+    top: 4px;
+    left: 580px;
+  }
+  
+  .landing-nw-shop .img-wrapper {
+    position: absolute;
+    width: 63px;
+    height: 63px;
+    top: 0;
+    left: 15px;
+    border-radius: 42.02px;
+    overflow: hidden;
+  }
+  
+  .landing-nw-shop .img-2 {
+    position: absolute;
+    width: 63px;
+    height: 66px;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .landing-nw-shop .text-wrapper-38 {
+    position: absolute;
+    top: 69px;
+    left: 2px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 10.5px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-nw-shop .group-38 {
+    position: absolute;
+    width: 65px;
+    height: 82px;
+    top: 4px;
+    left: 679px;
+  }
+  
+  .landing-nw-shop .frame-19 {
+    position: absolute;
+    width: 63px;
+    height: 63px;
+    top: 0;
+    left: 0;
+    border-radius: 42.02px;
+    overflow: hidden;
+  }
+  
+  .landing-nw-shop .img-3 {
+    width: 63px;
+    height: 73px;
+    top: -5px;
+    left: 0;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .landing-nw-shop .text-wrapper-39 {
+    position: absolute;
+    top: 69px;
+    left: 9px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 10.5px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-nw-shop .group-39 {
+    position: absolute;
+    width: 65px;
+    height: 82px;
+    top: 4px;
+    left: 763px;
+  }
+  
+  .landing-nw-shop .frame-20 {
+    position: absolute;
+    width: 63px;
+    height: 63px;
+    top: 0;
+    left: 0;
+    border-radius: 42.02px;
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .landing-nw-shop .group-40 {
+    position: absolute;
+    width: 68px;
+    height: 82px;
+    top: 4px;
+    left: 847px;
+  }
+  
+  .landing-nw-shop .frame-21 {
+    position: absolute;
+    width: 63px;
+    height: 63px;
+    top: 0;
+    left: 0;
+    border-radius: 42.02px;
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .landing-nw-shop .text-wrapper-40 {
+    position: absolute;
+    width: 63px;
+    top: 69px;
+    left: 3px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 10.5px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-nw-shop .group-41 {
+    position: absolute;
+    width: 68px;
+    height: 82px;
+    top: 4px;
+    left: 931px;
+  }
+  
+  .landing-nw-shop .img-4 {
+    width: 63px;
+    height: 64px;
+    top: -1px;
+    left: 0;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .landing-nw-shop .text-wrapper-41 {
+    position: absolute;
+    top: 69px;
+    left: 2px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 10.5px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-nw-shop .group-42 {
+    position: absolute;
+    width: 65px;
+    height: 82px;
+    top: 4px;
+    left: 1015px;
+  }
+  
+  .landing-nw-shop .frame-22 {
+    position: absolute;
+    width: 63px;
+    height: 63px;
+    top: 0;
+    left: 0;
+    border-radius: 42.02px;
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .landing-nw-shop .text-wrapper-42 {
+    position: absolute;
+    top: 69px;
+    left: 14px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 10.5px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-nw-shop .group-43 {
+    position: absolute;
+    width: 91px;
+    height: 82px;
+    top: 4px;
+    left: 1086px;
+  }
+  
+  .landing-nw-shop .frame-23 {
+    position: absolute;
+    width: 63px;
+    height: 63px;
+    top: 0;
+    left: 13px;
+    border-radius: 42.02px;
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .landing-nw-shop .group-44 {
+    position: absolute;
+    width: 65px;
+    height: 82px;
+    top: 4px;
+    left: 1183px;
+  }
+  
+  .landing-nw-shop .frame-24 {
+    position: absolute;
+    width: 63px;
+    height: 63px;
+    top: 0;
+    left: 0;
+    border-radius: 42.02px;
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .landing-nw-shop .group-45 {
+    position: absolute;
+    width: 71px;
+    height: 82px;
+    top: 4px;
+    left: 1265px;
+  }
+  
+  .landing-nw-shop .frame-25 {
+    position: absolute;
+    width: 63px;
+    height: 63px;
+    top: 0;
+    left: 2px;
+    border-radius: 42.02px;
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .landing-nw-shop .text-wrapper-43 {
+    position: absolute;
+    top: 69px;
+    left: 2px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 10.5px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-nw-shop .group-46 {
+    position: absolute;
+    width: 65px;
+    height: 82px;
+    top: 4px;
+    left: 1351px;
+  }
+  
+  .landing-nw-shop .frame-26 {
+    position: absolute;
+    width: 63px;
+    height: 63px;
+    top: 0;
+    left: 0;
+    border-radius: 42.02px;
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .landing-nw-shop .group-47 {
+    position: absolute;
+    width: 65px;
+    height: 82px;
+    top: 4px;
+    left: 1435px;
+  }
+  
+  .landing-nw-shop .img-5 {
+    width: 83px;
+    height: 79px;
+    top: -6px;
+    left: -8px;
+    position: absolute;
+    object-fit: cover;
+  }
+  #overlay {
+    position: absolute;
+    display: none;
+    width: 230px;
+    height: 90px;
+    top: 428px;
+    left: 26%;
+    right: 0;
+    bottom: 0;
+    border-radius: 11px;
+    background-color: rgba(0,0,0,1);
+    z-index: 2;
+  }
+  h1{
+    font-family: 'outfit', Helvetica;
+    font-size: 15px;
+    color:white;
+    text-align: center;
+  }
+  #b1{
+    position: absolute;
+    font-family: 'outfit', Helvetica;
+    font-size: 8px;
+    border: 1px solid linear-gradient(
+      90deg,
+      rgb(212, 33, 42) 0%,
+      rgba(255, 61.2, 0, 0.84) 50.52%,
+      rgba(255, 214.2, 0, 0.67) 100%
+    );
+    border-radius: 6px;
+    color: rgb(255, 255, 255);
+    background-color: black;
+    width: 90px;
+    height: 26px;
+    left: 10%;
+    top: 55%;
+    text-align: center;
+    padding-left: 11%;
+    cursor: pointer;
+  }
+  img{
+    position: absolute;
+    width: 15px;
+    height: 17px; 
+    top: 3px;
+    left: 12px;
+    cursor: pointer;
+  }
+  #b2{
+    position: absolute;
+    font-family: 'outfit', Helvetica;
+    font-size: 7px;
+    border: 5px solid linear-gradient(
+      90deg,
+      rgb(212, 33, 42) 0%,
+      rgba(255, 61.2, 0, 0.84) 50.52%,
+      rgba(255, 214.2, 0, 0.67) 100%
+    );;
+    border-radius: 6px;
+    color: rgb(255, 255, 255);
+    background-color: black;
+    width: 90px;
+    height: 26px;
+    left: 52%;
+    top: 55%;
+    text-align: center;
+    padding-left: 11%;
+    cursor: pointer;
+  }
+  #img2{
+    position: absolute;
+    width: 17px;
+    height: 17px; 
+    top: 3px;
+    left: 7px;
+    cursor: pointer;
+  }
+  #b3{
+    position: absolute;
+    width: 15px;
+    height: 15px; 
+    border-radius: 100%;
+    top: 5px;
+    left: 90%;
+    cursor: pointer;
+  }
+  #img3{
+    position: absolute;
+    width: 8px;
+    height: 8px; 
+    top: 2px;
+    left: 2px;
+    cursor: pointer;
+  }
+  #overlay1 {
+    position: absolute;
+    display: none;
+    width: 220px;
+    height: 78px;
+    top: 3936px;
+    left: 13%;
+    right: 0;
+    bottom: 0;
+    border-radius: 11px;
+    background-color: rgba(0,0,0,1);
+    z-index: 2;
+  }
+  .landing-nw-shop .text-wrapper-88 {
+    position: absolute;
+    top: 3200px;
+    left: 87px;
+    font-family: "Unbounded", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  .landing-nw-shop .group-101 {
+    position: absolute;
+    width: 38px;
+    top: 4690px;
+    left: 120px;
+  }
+
+  
+  .landing-nw-shop .frame-102 {
+    width: 358px;
+    height: 194px;
+    left: -104px;
+    border-radius: 20px;
+    overflow: hidden;
+    position: absolute;
+    top: -1413px;
+  }
+  
+  .landing-nw-shop .group-103 {
+    position: relative;
+    width: 289px;
+    height: 132px;
+    top: 65px;
+    left: 35px;
+  }
+  
+  .landing-nw-shop .element {
+    left: 75px;
+    font-size: 60px;
+    letter-spacing: -1px;
+    position: absolute;
+    top: -90px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    text-align: center;
+    line-height: 80px;
+    white-space: nowrap;
+  }
+  
+  .landing-nw-shop .text-wrapper-104 {
+    font-weight: 600;
+  }
+  
+  .landing-nw-shop .text-wrapper-105 {
+    font-family: "Outfit", Helvetica;
+  }
+  
+  .landing-nw-shop .text-wrapper-106 {
+    position: absolute;
+    top: 27px;
+    left: 66px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 30px;
+    text-align: center;
+    letter-spacing: -0.6px;
+    line-height: 80px;
+    white-space: nowrap;
+  }
+  
+  .landing-nw-shop .frame-107 {
+    position: absolute;
+    width: 175px;
+    height: 161px;
+    top: -1208px;
+    left: 79px;
+    border-radius: 21px;
+    overflow: hidden;
+  }
+  
+  .landing-nw-shop .group-108 {
+    position: relative;
+    width: 283px;
+    height: 133px;
+    top: 52px;
+    left: 194px;
+  }
+  
+  .landing-nw-shop .element-2 {
+    top: -68px;
+    left: -158px;
+    font-size: 40px;
+    letter-spacing: -0.8px;
+    position: absolute;
+    font-family: "Outfit", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    text-align: center;
+    line-height: 80px;
+    white-space: nowrap;
+  }
+  
+  .landing-nw-shop .text-wrapper-109 {
+    font-weight: 600;
+    letter-spacing: -0.64px;
+  }
+  
+  .landing-nw-shop .text-wrapper-110 {
+    font-family: "Outfit", Helvetica;
+    letter-spacing: -0.64px;
+  }
+  
+  .landing-nw-shop .text-wrapper-111 {
+    position: absolute;
+    top: 30px;
+    left: -248px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 17px;
+    text-align: center;
+    letter-spacing: -0.3px;
+    line-height: 40px;
+    white-space: nowrap;
+  }
+  
+  .landing-nw-shop .frame-112 {
+    position: absolute;
+    width: 175px;
+    height: 161px;
+    top: -1208px;
+    left: -104px;
+    border-radius: 20px;
+    overflow: hidden;
+  }
+  
+  .landing-nw-shop .overlap-group-wrapper-1 {
+    position: relative;
+    width: 303px;
+    height: 143px;
+    top: 43px;
+    left: 170px;
+  }
+  
+  .landing-nw-shop .overlap-group-44 {
+    position: relative;
+    width: 299px;
+    height: 143px;
+  }
+  
+  .landing-nw-shop .element-3 {
+    position: absolute;
+    top: -60px;
+    left: -130px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 40px;
+    text-align: center;
+    letter-spacing: -0.8px;
+    line-height: 80px;
+    white-space: nowrap;
+  }
+  
+  .landing-nw-shop .text-wrapper-115 {
+    position: absolute;
+    top: 58px;
+    left: -158px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 17px;
+    text-align: center;
+    letter-spacing: -0.3px;
+    line-height: 0px;
+    white-space: pre-line;
+  }
+}
+
+
+
+
+
+
+@media screen and (min-width: 410px) and (max-width: 435px)
+{
+#b3{
+  position: absolute;
+  width: 15px;
+  height: 15px;
+  border: none; 
+  }
+   .landing-nw-shop .text-wrapper-22 {
+    position: absolute;
+    left: 27px;
+   }
+  .landing-nw-shop .text-wrapper-4 {
+    position: absolute;
+    top: 5px;
+    left: -9px;
+  }
+  .landing-nw-shop .text-wrapper-5 {
+    position: absolute;
+    top: 0;
+    left: -18px;
+  }
+  .landing-nw-shop .group-3 {
+    top: 10px;
+    left: 29px;
+  }
+  .landing-nw-shop .group-18 {
+    position: absolute;
+    top: 41px;
+    left: 29px;
+  }
+  .landing-nw-shop .text-wrapper-9 {
+    position: absolute;
+    top: -5px;
+    left: -18px;
+  }
+  .landing-nw-shop .text-wrapper-10 {
+    position: absolute;
+    top: 6px;
+    left: -16px;
+  }
+  .landing-nw-shop .frame-10 {
+    position: relative;
+    width: 416px;
+    left: -13px;
+  }
+  .landing-nw-shop .text-wrapper-27{
+    position: absolute;
+    left: 5px;
+  }
+  .landing-nw-shop .text-wrapper-28 {
+    position: absolute;
+    left: 35px;
+    top: 6px;
+  }
+  .landing-nw-shop .group-4 {
+    position: relative;
+    left: 29px;
+  }
+  .landing-nw-shop .group-27 {
+    position: absolute;
+    left: 125px;
+  }
+  .landing-nw-shop .group-28 {
+    position: absolute;
+    left: 125px;
+  }
+  .landing-nw-shop .group-29 {
+    position: absolute;
+    left: 113px;
+  }
+  .landing-nw-shop .text-wrapper-29 {
+    position: absolute;
+    left: 112px;
+  }
+  .landing-nw-shop .text-wrapper-23 {
+    position: absolute;
+    left: 125px;
+  }
+  .landing-nw-shop .group-21 {
+    position: relative;
+    top: 4px;
+    left: 11px;
+  }
+   .landing-nw-shop .group-19 {
+    position: relative;
+    top: 0px;
+    left: 16px;
+  }
+}
+
+
+
+@media screen and (max-width: 375px)
+{
+  .landing-nw-shop .div {
+    width: 100%;
+    height: 4800px;
+    position: relative;
+    left: -22px;
+  }
+  .landing-nw-shop .text-wrapper {
+    position: absolute;
+    left: 35px;
+    font-size: 37px;
+}
+.landing-nw-shop .frame-10 {
+  position: relative;
+  width: 375px;
+  height: 615px;
+  top: 4800px;
+}
+#overlay {
+  position: absolute;
+  left: 36%;
+}
+#overlay1 {
+  position: absolute;
+  left: 36%;
+}
+}
+
+
+@media screen and (min-width: 376px) and (max-width: 413px)
+{
+    .landing-nw-shop .frame-10 {
+    position: relative;
+    width: 390px;
+    left: 0px;
+   }
+     .landing-nw-shop .div {
+    position: absolute;
+    left: -4px;
+  }
+   .landing-nw-shop .group-27 {
+    left: 116px;
+  }
+   .landing-nw-shop .text-wrapper-23{
+    left: 110px;
+   }
+   .landing-nw-shop .group-28 {
+    left: 115px;
+  }
+  .landing-nw-shop .instagram-svgrepo {
+    top: 51px;
+  }
+  
+  .landing-nw-shop .facebook-svgrepo-com {
+    top: 46px;
+  }
+  
+  .landing-nw-shop .pinterest-logo {
+    top: 49px;
+  }
+  
+  .landing-nw-shop .twitter-svgrepo {
+    top: 50px;
+  }
+  .landing-nw-shop .group-29 {
+    top: 290px;
+  }
+  .landing-nw-shop .text-wrapper-22 {
+    position: absolute;
+    left: 30px;
+  }
+}

@@ -1,0 +1,826 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit');
+@import url('https://fonts.googleapis.com/css?family=Fredoka One');
+@import url('https://fonts.googleapis.com/css2?family=Unbounded:wght@900&display=swap');
+
+
+.t-c {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .t-c .div {
+    background-color: #ffffff;
+    width: 1440px;
+    height: 2077px;
+    position: relative;
+  }
+  
+  .t-c .group {
+    position: absolute;
+    width: 273px;
+    height: 49px;
+    top: 65px;
+    left: 82px;
+  }
+  
+  .t-c .XMLID {
+    width: 92px;
+    height: 49px;
+    left: 0;
+    position: absolute;
+    top: 0;
+  }
+  
+  .t-c .text-wrapper {
+    width: 170px;
+    top: 0;
+    left: 101px;
+    color: #d4212a;
+    font-size: 40px;
+    position: absolute;
+    font-family: "Fredoka One", Helvetica;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .t-c .frame {
+    position: absolute;
+    width: 1517px;
+    height: 434px;
+    top: 1653px;
+    left: -40px;
+    background-color: #920007;
+  }
+  
+  .t-c .group-2 {
+    position: absolute;
+    width: 208px;
+    height: 98px;
+    top: 92px;
+    left: 90px;
+  }
+  
+  .t-c .img {
+    width: 111px;
+    height: 59px;
+    left: 47px;
+    position: absolute;
+    top: 0;
+  }
+  
+  .t-c .XMLID-2 {
+    width: 206px;
+    top: 60px;
+    left: 0;
+    color: #ffffff;
+    font-size: 48.4px;
+    position: absolute;
+    font-family: "Fredoka One", Helvetica;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+
+  .t-c .link{
+    color: #6999ff;
+   }
+  
+   .t-c .p {
+    position: absolute;
+    top: 370px;
+    left: 655px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .t-c .group-3 {
+    position: absolute;
+    width: 179px;
+    height: 168px;
+    top: 92px;
+    left: 650px;
+  }
+  
+  .t-c .text-wrapper-2 {
+    top: 56px;
+    left: 62px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 300;
+    color: #ffffff;
+    font-size: 18px;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+    text-decoration: none;
+    cursor: pointer;
+  }
+
+  .t-c .text-wrapper-99 {
+    position: absolute;
+    top: 85px;
+    left: 79px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 300;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+    text-decoration: none;
+    cursor: pointer;
+  }
+
+  .t-c .text-wrapper-3 {
+    position: absolute;
+    top: 114px;
+    left: 46px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 300;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  
+  .t-c .text-wrapper-4 {
+    position: absolute;
+    top: 143px;
+    left: 47px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 300;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  
+  .t-c .terms-conditions {
+    position: absolute;
+    top: 172px;
+    left: 25px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 300;
+    color: #9c9c9c;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  
+  .t-c .text-wrapper-5 {
+    position: absolute;
+    top: 0;
+    left: 20px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .t-c .text-wrapper-6 {
+    position: absolute;
+    top: 91px;
+    left: 1226px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .t-c .instagram-svgrepo {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 163px;
+    left: 1199px;
+    background-image: url(./img/Vector00.png);
+    background-size: 100% 100%;
+  }
+  
+  .t-c .facebook-svgrepo-com {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    top: 158px;
+    left: 1248px;
+  }
+  
+  .t-c .vector {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    top: 0px;
+    left: 0px;
+  }
+  
+  .t-c .pinterest-logo {
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    top: 161px;
+    left: 1304px;
+  }
+  
+  .t-c .twitter-svgrepo {
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    top: 162px;
+    left: 1358px;
+  }
+  
+  .t-c .text-wrapper-7 {
+    position: absolute;
+    top: 394px;
+    left: 600px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 10px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .t-c .frame-2 {
+    position: absolute;
+    width: 1062px;
+    height: 1258px;
+    top: 224px;
+    left: 189px;
+    background-color: #ffffff;
+    box-shadow: 0px 1.83px 43.88px #0000001a;
+  }
+  
+  .t-c .text-wrapper-8 {
+    position: absolute;
+    top: 35px;
+    left: 263px;
+    font-family: "Unbounded", Helvetica;
+    font-weight: 600;
+    color: #d4212a;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .t-c .welcome-to-nearwala {
+    position: absolute;
+    width: 825px;
+    top: 151px;
+    left: 119px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 17px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+
+
+
+
+  @media screen and (min-width: 1599px) and (max-width: 1601px)
+  {
+    .t-c .frame {
+      width: 1590px;
+      left: -80px;
+    }
+    .t-c .group-3 {
+      left: 700px;
+    }
+    .t-c .text-wrapper-6 {
+      left: 1290px;
+    }
+    
+    .t-c .instagram-svgrepo {
+      left: 1264px;
+    }
+    
+    .t-c .vector {
+      left: 85px;
+    }
+    
+    .t-c .pinterest-logo {
+      left: 1369px;
+    }
+    
+    .t-c .twitter-svgrepo {
+      left: 1423px;
+    }
+    
+    .t-c .text-wrapper-7 {
+      left: 665px;
+    }
+    .t-c .p {
+      left: 705px;
+    }
+    .t-c .facebook-svgrepo-com {
+      left: 1227px;
+    }
+  }
+
+
+  @media screen and (min-width: 1439px) and (max-width: 1440px)
+  {
+    .t-c .frame {
+      width: 1455px;
+    }
+  }
+
+
+  @media screen and (min-width: 1365px) and (max-width: 1366px) 
+  {
+    .t-c .frame {
+      width: 1400px;
+      left: -60px;
+    }
+    .t-c .frame-2 {
+      left: 150px;
+    }
+    .t-c .text-wrapper-6 {
+      left: 1180px;
+    }
+    
+    .t-c .instagram-svgrepo {
+      left: 1154px;
+    }
+    
+    .t-c .vector {
+      left: 85px;
+    }
+    
+    .t-c .pinterest-logo {
+      left: 1259px;
+    }
+    
+    .t-c .twitter-svgrepo {
+      left: 1313px;
+    }
+    
+    .t-c .text-wrapper-7 {
+      left: 555px;
+    }
+    .t-c .facebook-svgrepo-com {
+      left: 1117px;
+    }
+    .t-c .p {
+      left: 615px;
+    }
+    .t-c .group-3 {
+      left: 610px;
+    }
+  }
+
+
+  @media screen and (min-width: 1359px) and (max-width: 1361px) 
+  {
+    .t-c .frame {
+      width: 1395px;
+      left: -60px;
+    }
+    .t-c .frame-2 {
+      left: 150px;
+    }
+    .t-c .text-wrapper-6 {
+      left: 1180px;
+    }
+    
+    .t-c .instagram-svgrepo {
+      left: 1154px;
+    }
+    
+    .t-c .vector {
+      left: 85px;
+    }
+    
+    .t-c .pinterest-logo {
+      left: 1259px;
+    }
+    
+    .t-c .twitter-svgrepo {
+      left: 1313px;
+    }
+    
+    .t-c .text-wrapper-7 {
+      left: 555px;
+    }
+    .t-c .facebook-svgrepo-com {
+      left: 1117px;
+    }
+    .t-c .p {
+      left: 615px;
+    }
+    .t-c .group-3 {
+      left: 610px;
+    }
+  }
+
+
+  @media screen and (min-width: 1279px) and (max-width: 1280px) 
+  {
+    .t-c .frame {
+      width: 1345px;
+      left: -90px;
+    }
+    .t-c .frame-2 {
+      left: 100px;
+    }
+    .t-c .text-wrapper-6 {
+      left: 1125px;
+    }
+    
+    .t-c .instagram-svgrepo {
+      left: 1099px;
+    }
+    
+    .t-c .vector {
+      left: -20px;
+    }
+    
+    .t-c .pinterest-logo {
+      left: 1204px;
+    }
+    
+    .t-c .twitter-svgrepo {
+      left: 1258px;
+    }
+    .t-c .facebook-svgrepo-com {
+      left: 1168px;
+    }
+    .t-c .group-3 {
+      left: 610px;
+    }
+    .t-c .p {
+      left: 615px;
+    }
+    .t-c .group-2 {
+      left: 120px;
+    }
+  }
+
+
+  @media screen and (min-width: 1920px) 
+  {
+    .t-c .frame {
+      width: 1900px;
+      left: -240px;
+    }
+
+    .t-c .group {
+      left: -100px;
+    }
+
+    .t-c .group-3 {
+      position: absolute;
+      left: 850px;
+    }
+
+    .t-c .text-wrapper-6 {
+      left: 1595px;
+    }
+    
+    .t-c .instagram-svgrepo {
+      left: 1569px;
+    }
+    
+    .t-c .vector {
+      left: 410px;
+    }
+    
+    .t-c .pinterest-logo {
+      left: 1674px;
+    }
+    
+    .t-c .twitter-svgrepo {
+      left: 1728px;
+    }
+
+    .t-c .text-wrapper-7 {
+      left: 815px;
+    }
+    .t-c .p {
+      left: 840px;
+    }
+  }
+
+
+
+
+  @media screen and (max-width: 640px) 
+  {
+    .t-c {
+      background-color: #ffffff;
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+      width: 100%;
+    }
+    
+    .t-c .div {
+      background-color: #ffffff;
+      width: 390px;
+      height: 1666px;
+      position: relative;
+    }
+    
+    .t-c .group {
+      position: absolute;
+      width: 152px;
+      height: 27px;
+      top: 24px;
+      left: 19px;
+    }
+    
+    .t-c .XMLID {
+      position: absolute;
+      width: 51px;
+      height: 27px;
+      top: 0;
+      left: 0;
+    }
+    
+    .t-c .text-wrapper {
+      position: absolute;
+      width: 94px;
+      top: 0;
+      left: 56px;
+      font-weight: 300;
+      color: #d4212a;
+      font-size: 22.1px;
+    }
+    
+    .t-c .frame {
+      position: absolute;
+      width: 390px;
+      height: 615px;
+      top: 1100px;
+      left: 0;
+      background-color: #920007;
+    }
+  
+    .t-c .group-2 {
+      position: absolute;
+      width: 152px;
+      height: 71px;
+      top: 447px;
+      left: 120px;
+    }
+    
+    .t-c .img {
+      position: absolute;
+      width: 81px;
+      height: 43px;
+      top: 0;
+      left: 34px;
+    }
+    
+    .t-c .XMLID-2 {
+      position: absolute;
+      width: 150px;
+      top: 44px;
+      left: 0;
+      font-family: "Fredoka One", Helvetica;
+      font-weight: 300;
+      color: #ffffff;
+      font-size: 35.3px;
+    }
+    
+    .t-c .p {
+      position: absolute;
+      top: 568px;
+      left: 114px;
+      font-weight: 400;
+      font-size: 10px;
+    }
+    
+    .t-c .group-3 {
+      position: absolute;
+      width: 164px;
+      height: 183px;
+      top: 47px;
+      left: 119px;
+    }
+    
+    .t-c .text-wrapper-2 {
+      top: 44px;
+      left: 40px;
+      font-weight: 300;
+      font-size: 18px;
+      position: absolute;
+    }
+  
+    .t-c .text-wrapper-99 {
+      position: absolute;
+      top: 73px;
+      left: 53px;
+      font-weight: 300;
+      font-size: 18px;
+    }
+  
+    .t-c .text-wrapper-3 {
+      position: absolute;
+      top: 102px;
+      left: 21px;
+      font-weight: 300;
+      font-size: 18px;
+    }
+    
+    .t-c .text-wrapper-4 {
+      position: absolute;
+      top: 131px;
+      left: 23px;
+      font-weight: 300;
+      font-size: 18px;
+    }
+    
+    .t-c .terms-conditions {
+      position: absolute;
+      top: 160px;
+      left: 0;
+      font-family: "Outfit", Helvetica;
+      font-weight: 300;
+      font-size: 18px;
+      letter-spacing: 0;
+      line-height: normal;
+    }
+    
+    .t-c .text-wrapper-5 {
+      position: absolute;
+      top: 0;
+      left: 9px;
+      font-weight: 600;
+      font-size: 25px;
+    }
+    
+    .t-c .text-wrapper-6 {
+      position: absolute;
+      top: 290px;
+      left: 140px;
+      font-weight: 600;
+      font-size: 25px;
+    }
+    
+    .t-c .instagram-svgrepo {
+      position: absolute;
+      width: 25px;
+      height: 25px;
+      top: 340px;
+      left: 113px;
+      background-size: 100% 100%;
+    }
+    
+    .t-c .facebook-svgrepo-com {
+      position: absolute;
+      width: 30px;
+      height: 30px;
+      top: 336px;
+      left: 153px;
+    }
+    
+    .t-c .vector {
+      position: absolute;
+      width: 34px;
+      height: 34px;
+      top: 0px;
+      left: 0px;
+    }
+    
+    .t-c .pinterest-logo {
+      position: absolute;
+      width: 31px;
+      height: 31px;
+      top: 338px;
+      left: 198px;
+    }
+    
+    .t-c .twitter-svgrepo {
+      position: absolute;
+      width: 33px;
+      height: 33px;
+      top: 338px;
+      left: 243px;
+    }
+    
+    .t-c .text-wrapper-7 {
+      position: absolute;
+      top: 583px;
+      left: 97px;
+      font-weight: 400;
+      font-size: 8px;
+    }
+    
+    .t-c .frame-2 {
+      position: absolute;
+      width: 358px;
+      height: 920px;
+      top: 118px;
+      left: 16px;
+      background-color: #ffffff;
+      box-shadow: 0px 1.83px 43.88px #0000001a;
+    }
+    
+    .t-c .text-wrapper-8 {
+      top: 27px;
+      left: 40px;
+      font-family: "Unbounded", Helvetica;
+      font-weight: 600;
+      color: #d4212a;
+      font-size: 20px;
+      position: absolute;
+    }
+    
+    .t-c .welcome-to-nearwala {
+      position: absolute;
+      width: 310px;
+      top: 84px;
+      left: 24px;
+      font-family: "Outfit", Helvetica;
+      font-weight: 400;
+      color: #000000;
+      font-size: 10px;
+    }
+  }
+
+
+  @media screen and (min-width: 410px) and (max-width: 435px)
+  {
+    .t-c .frame {
+      position: relative;
+      width: 416px;
+      left: -13px;
+  }
+  .t-c .text-wrapper-5 {
+      position: absolute;
+      top: 0;
+      left: -1px;
+ }
+ .t-c .text-wrapper-6 {
+     position: absolute;
+     left: 145px;
+ }
+ .t-c .group-2 {
+  position: absolute;
+  left: 125px;
+}
+.t-c .p {
+  position: absolute;
+  left: 126px;
+}
+.t-c .instagram-svgrepo {
+  position: absolute;
+  left: 128px;
+}
+
+.t-c .facebook-svgrepo-com {
+  position: absolute;
+  left: 168px;
+}
+
+.t-c .vector {
+  position: absolute;
+  width: 34px;
+  height: 34px;
+  top: 0px;
+  left: 0px;
+}
+
+.t-c .pinterest-logo {
+  position: absolute;
+  left: 213px;
+}
+
+.t-c .twitter-svgrepo {
+  position: absolute;
+  left: 258px;
+}
+.t-c .group-3 {
+  position: absolute;
+  left: 127px;
+}
+}
+
+
+@media screen and (min-width: 376px) and (max-width: 413px)
+{
+  .t-c .div {
+    left: -10px;
+  }
+}

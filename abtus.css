@@ -1,0 +1,857 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit');
+@import url('https://fonts.googleapis.com/css?family=Fredoka One');
+@import url('https://fonts.googleapis.com/css2?family=Unbounded:wght@900&display=swap');
+
+.about-us {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .about-us .div {
+    background-color: #ffffff;
+    width: 1440px;
+    height: 1781px;
+    position: relative;
+  }
+  
+  .about-us .group {
+    position: absolute;
+    width: 273px;
+    height: 49px;
+    top: 65px;
+    left: 82px;
+    cursor: pointer;
+  }
+  
+  .about-us .XMLID {
+    position: absolute;
+    width: 92px;
+    height: 49px;
+    top: 0;
+    left: 0;
+  }
+  
+  .about-us .text-wrapper {
+    position: absolute;
+    width: 170px;
+    top: 0;
+    left: 101px;
+    font-family: "Fredoka One", Helvetica;
+    font-weight: 300;
+    color: #d4212a;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .about-us .frame {
+    position: absolute;
+    width: 1517px;
+    height: 434px;
+    top: 1367px;
+    left: -40px;
+    background-color: #920007;
+  }
+
+  .about-us .link{
+    color: #6999ff;
+   }
+
+  .about-us .group-2 {
+    position: absolute;
+    width: 208px;
+    height: 98px;
+    top: 92px;
+    left: 90px;
+  }
+  
+  .about-us .img {
+    position: absolute;
+    width: 111px;
+    height: 59px;
+    top: 0;
+    left: 47px;
+  }
+  
+  .about-us .XMLID-2 {
+    position: absolute;
+    width: 206px;
+    top: 60px;
+    left: 0;
+    font-family: "Fredoka One", Helvetica;
+    font-weight: 300;
+    color: #ffffff;
+    font-size: 48.4px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .about-us .p {
+    position: absolute;
+    top: 370px;
+    left: 655px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .about-us .group-3 {
+    position: absolute;
+    width: 179px;
+    height: 168px;
+    top: 92px;
+    left: 650px;
+  }
+  
+  .about-us .text-wrapper-2 {
+    top: 56px;
+    left: 62px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 300;
+    color: #9c9c9c;
+    font-size: 18px;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+    text-decoration: none;
+    cursor: pointer;
+  }
+
+  .about-us .text-wrapper-99 {
+    position: absolute;
+    top: 85px;
+    left: 79px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 300;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+    text-decoration: none;
+    cursor: pointer;
+  }
+
+  .about-us .text-wrapper-3 {
+    position: absolute;
+    top: 114px;
+    left: 46px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 300;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  
+  .about-us .text-wrapper-4 {
+    position: absolute;
+    top: 143px;
+    left: 47px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 300;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  
+  .about-us .terms-conditions {
+    position: absolute;
+    top: 172px;
+    left: 25px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 300;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  
+  .about-us .text-wrapper-5 {
+    position: absolute;
+    top: 0;
+    left: 20px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .about-us .text-wrapper-6 {
+    position: absolute;
+    top: 91px;
+    left: 1226px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .about-us .instagram-svgrepo {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 163px;
+    left: 1199px;
+    background-image: url(./img/Vector00.png);
+    background-size: 100% 100%;
+  }
+  
+  .about-us .facebook-svgrepo-com {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    top: 158px;
+    left: 1248px;
+  }
+  
+  .about-us .vector {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    top: 0px;
+    left: 0px;
+  }
+  
+  .about-us .pinterest-logo {
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    top: 161px;
+    left: 1304px;
+  }
+  
+  .about-us .twitter-svgrepo {
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    top: 162px;
+    left: 1358px;
+  }
+  
+  .about-us .text-wrapper-7 {
+    position: absolute;
+    top: 394px;
+    left: 600px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 10px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .about-us .frame-2 {
+    position: absolute;
+    width: 1062px;
+    height: 931px;
+    top: 224px;
+    left: 189px;
+    background-color: #ffffff;
+    box-shadow: 0px 1.83px 43.88px #0000001a;
+  }
+  
+  .about-us .text-wrapper-8 {
+    top: 35px;
+    left: 416px;
+    font-family: "Unbounded", Helvetica;
+    font-weight: 600;
+    color: #d4212a;
+    font-size: 40px;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .about-us .about-nearwala-a {
+    position: absolute;
+    width: 825px;
+    top: 151px;
+    left: 119px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 400;
+    color: transparent;
+    font-size: 25px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .about-us .span {
+    color: #000000;
+  }
+  
+  .about-us .text-wrapper-9 {
+    font-family: "Outfit", Helvetica;
+    font-weight: 600;
+    color: #d4212a;
+  }
+  
+  .about-us .text-wrapper-10 {
+    color: #000000;
+    font-size: 17px;
+  }
+
+
+
+  @media screen and (min-width: 1599px) and (max-width: 1601px)
+  {
+    .about-us .frame {
+      width: 1590px;
+      left: -80px;
+    }
+    .about-us .group-3 {
+      left: 700px;
+    }
+    .about-us .text-wrapper-6 {
+      left: 1290px;
+    }
+    
+    .about-us .instagram-svgrepo {
+      left: 1264px;
+    }
+    
+    .about-us .vector {
+      left: 85px;
+    }
+    
+    .about-us .pinterest-logo {
+      left: 1369px;
+    }
+    
+    .about-us .twitter-svgrepo {
+      left: 1423px;
+    }
+    
+    .about-us .text-wrapper-7 {
+      left: 665px;
+    }
+    .about-us .p {
+      left: 705px;
+    }
+    .about-us .facebook-svgrepo-com {
+      left: 1227px;
+    }
+  }
+
+
+  @media screen and (min-width: 1439px) and (max-width: 1440px)
+  {
+    .about-us .frame {
+      width: 1455px;
+    }
+  }
+
+
+  @media screen and (min-width: 1365px) and (max-width: 1366px) 
+  {
+    .about-us .frame {
+      width: 1400px;
+      left: -60px;
+    }
+    .about-us .frame-2 {
+      left: 150px;
+    }
+    .about-us .text-wrapper-6 {
+      left: 1180px;
+    }
+    
+    .about-us .instagram-svgrepo {
+      left: 1154px;
+    }
+    
+    .about-us .vector {
+      left: 85px;
+    }
+    
+    .about-us .pinterest-logo {
+      left: 1259px;
+    }
+    
+    .about-us .twitter-svgrepo {
+      left: 1313px;
+    }
+    
+    .about-us .text-wrapper-7 {
+      left: 555px;
+    }
+    .about-us .facebook-svgrepo-com {
+      left: 1117px;
+    }
+    .about-us .p {
+      left: 615px;
+    }
+    .about-us .group-3 {
+      left: 610px;
+    }
+  }
+
+
+  @media screen and (min-width: 1359px) and (max-width: 1361px) 
+  {
+    .about-us .frame {
+      width: 1395px;
+      left: -60px;
+    }
+    .about-us .frame-2 {
+      left: 150px;
+    }
+    .about-us .text-wrapper-6 {
+      left: 1180px;
+    }
+    
+    .about-us .instagram-svgrepo {
+      left: 1154px;
+    }
+    
+    .about-us .vector {
+      left: 85px;
+    }
+    
+    .about-us .pinterest-logo {
+      left: 1259px;
+    }
+    
+    .about-us .twitter-svgrepo {
+      left: 1313px;
+    }
+    
+    .about-us .text-wrapper-7 {
+      left: 555px;
+    }
+    .about-us .facebook-svgrepo-com {
+      left: 1117px;
+    }
+    .about-us .p {
+      left: 615px;
+    }
+    .about-us .group-3 {
+      left: 610px;
+    }
+  }
+
+
+  @media screen and (min-width: 1279px) and (max-width: 1280px) 
+  {
+    .about-us .frame {
+      width: 1345px;
+      left: -90px;
+    }
+    .about-us .frame-2 {
+      left: 100px;
+    }
+    .about-us .text-wrapper-6 {
+      left: 1125px;
+    }
+    
+    .about-us .instagram-svgrepo {
+      left: 1099px;
+    }
+    
+    .about-us .vector {
+      left: -20px;
+    }
+    
+    .about-us .pinterest-logo {
+      left: 1204px;
+    }
+    
+    .about-us .twitter-svgrepo {
+      left: 1258px;
+    }
+    .about-us .facebook-svgrepo-com {
+      left: 1168px;
+    }
+    .about-us .group-3 {
+      left: 610px;
+    }
+    .about-us .p {
+      left: 615px;
+    }
+    .about-us .group-2 {
+      left: 120px;
+    }
+  }
+
+
+  @media screen and (min-width: 1920px) 
+  {
+    .about-us .frame {
+      width: 1900px;
+      left: -240px;
+    }
+
+    .about-us .group {
+      left: -100px;
+    }
+
+    .about-us .group-3 {
+      position: absolute;
+      left: 850px;
+    }
+
+    .about-us .text-wrapper-6 {
+      left: 1595px;
+    }
+    
+    .about-us .instagram-svgrepo {
+      left: 1569px;
+    }
+    
+    .about-us .vector {
+      left: 410px;
+    }
+    
+    .about-us .pinterest-logo {
+      left: 1674px;
+    }
+    
+    .about-us .twitter-svgrepo {
+      left: 1728px;
+    }
+
+    .about-us .text-wrapper-7 {
+      left: 815px;
+    }
+    .about-us .p {
+      left: 840px;
+    }
+  }
+
+
+
+
+  @media screen and (max-width: 640px) 
+  {
+    .about-us {
+      background-color: #ffffff;
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+      width: 100%;
+    }
+    
+    .about-us .div {
+      background-color: #ffffff;
+      width: 390px;
+      height: 1366px;
+      position: relative;
+    }
+    
+    .about-us .group {
+      position: absolute;
+      width: 152px;
+      height: 27px;
+      top: 24px;
+      left: 19px;
+    }
+    
+    .about-us .XMLID {
+      position: absolute;
+      width: 51px;
+      height: 27px;
+      top: 0;
+      left: 0;
+    }
+    
+    .about-us .text-wrapper {
+      position: absolute;
+      width: 94px;
+      top: 0;
+      left: 56px;
+      font-weight: 300;
+      color: #d4212a;
+      font-size: 22.1px;
+    }
+    
+    .about-us .frame {
+      position: absolute;
+      width: 390px;
+      height: 615px;
+      top: 761px;
+      left: 0;
+      background-color: #920007;
+    }
+  
+    .about-us .group-2 {
+      position: absolute;
+      width: 152px;
+      height: 71px;
+      top: 447px;
+      left: 120px;
+    }
+    
+    .about-us .img {
+      position: absolute;
+      width: 81px;
+      height: 43px;
+      top: 0;
+      left: 34px;
+    }
+    
+    .about-us .XMLID-2 {
+      position: absolute;
+      width: 150px;
+      top: 44px;
+      left: 0;
+      font-family: "Fredoka One", Helvetica;
+      font-weight: 300;
+      color: #ffffff;
+      font-size: 35.3px;
+    }
+    
+    .about-us .p {
+      position: absolute;
+      top: 568px;
+      left: 114px;
+      font-weight: 400;
+      font-size: 10px;
+    }
+    
+    .about-us .group-3 {
+      position: absolute;
+      width: 164px;
+      height: 183px;
+      top: 47px;
+      left: 119px;
+    }
+    
+    .about-us .text-wrapper-2 {
+      top: 44px;
+      left: 40px;
+      font-weight: 300;
+      font-size: 18px;
+      position: absolute;
+    }
+  
+    .about-us .text-wrapper-99 {
+      position: absolute;
+      top: 73px;
+      left: 53px;
+      font-weight: 300;
+      font-size: 18px;
+    }
+  
+    .about-us .text-wrapper-3 {
+      position: absolute;
+      top: 102px;
+      left: 21px;
+      font-weight: 300;
+      font-size: 18px;
+    }
+    
+    .about-us .text-wrapper-4 {
+      position: absolute;
+      top: 131px;
+      left: 23px;
+      font-weight: 300;
+      font-size: 18px;
+    }
+    
+    .about-us .terms-conditions {
+      position: absolute;
+      top: 160px;
+      left: 0;
+      font-family: "Outfit", Helvetica;
+      font-weight: 300;
+      color: #ffffff;
+      font-size: 18px;
+      letter-spacing: 0;
+      line-height: normal;
+    }
+    
+    .about-us .text-wrapper-5 {
+      position: absolute;
+      top: 0;
+      left: 9px;
+      font-weight: 600;
+      font-size: 25px;
+    }
+    
+    .about-us .text-wrapper-6 {
+      position: absolute;
+      top: 290px;
+      left: 140px;
+      font-weight: 600;
+      font-size: 25px;
+    }
+    
+    .about-us .instagram-svgrepo {
+      position: absolute;
+      width: 25px;
+      height: 25px;
+      top: 340px;
+      left: 113px;
+      background-size: 100% 100%;
+    }
+    
+    .about-us .facebook-svgrepo-com {
+      position: absolute;
+      width: 30px;
+      height: 30px;
+      top: 336px;
+      left: 153px;
+    }
+    
+    .about-us .vector {
+      position: absolute;
+      width: 34px;
+      height: 34px;
+      top: 0px;
+      left: 0px;
+    }
+    
+    .about-us .pinterest-logo {
+      position: absolute;
+      width: 31px;
+      height: 31px;
+      top: 338px;
+      left: 198px;
+    }
+    
+    .about-us .twitter-svgrepo {
+      position: absolute;
+      width: 33px;
+      height: 33px;
+      top: 338px;
+      left: 243px;
+    }
+    
+    .about-us .text-wrapper-7 {
+      position: absolute;
+      top: 583px;
+      left: 97px;
+      font-weight: 400;
+      font-size: 8px;
+    }
+    
+    .about-us .frame-2 {
+      position: absolute;
+      width: 358px;
+      height: 580px;
+      top: 118px;
+      left: 16px;
+      background-color: #ffffff;
+      box-shadow: 0px 1.83px 43.88px #0000001a;
+    }
+    
+    .about-us .text-wrapper-8 {
+      top: 27px;
+      left: 122px;
+      font-family: "Unbounded", Helvetica;
+      font-weight: 600;
+      color: #d4212a;
+      font-size: 20px;
+      position: absolute;
+    }
+    
+    .about-us .about-nearwala-a {
+      position: absolute;
+      width: 310px;
+      top: 84px;
+      left: 24px;
+      font-family: "Outfit", Helvetica;
+      font-weight: 400;
+      color: transparent;
+      font-size: 15px;
+    }
+    
+    .about-us .span {
+      color: #000000;
+    }
+    
+    .about-us .text-wrapper-9 {
+      font-family: "Outfit", Helvetica;
+      font-weight: 300;
+      color: #d4212a;
+    }
+    
+    .about-us .text-wrapper-10 {
+      color: #000000;
+      font-size: 10px;
+    }
+  }
+
+
+  @media screen and (min-width: 410px) and (max-width: 435px)
+  {
+    .about-us .frame {
+        position: relative;
+        width: 416px;
+        left: -13px;
+    }
+    .about-us .text-wrapper-5 {
+        position: absolute;
+        top: 0;
+        left: -1px;
+   }
+    .about-us .text-wrapper-6 {
+       position: absolute;
+       left: 145px;
+   }
+   .about-us .group-2 {
+    position: absolute;
+    left: 125px;
+  }
+  .about-us .p {
+    position: absolute;
+    left: 126px;
+  }
+  .about-us .instagram-svgrepo {
+    position: absolute;
+    left: 128px;
+  }
+  
+  .about-us .facebook-svgrepo-com {
+    position: absolute;
+    left: 168px;
+  }
+  
+  .about-us .vector {
+    position: absolute;
+    width: 34px;
+    height: 34px;
+    top: 0px;
+    left: 0px;
+  }
+  
+  .about-us .pinterest-logo {
+    position: absolute;
+    left: 213px;
+  }
+  
+  .about-us .twitter-svgrepo {
+    position: absolute;
+    left: 258px;
+  }
+  .about-us .group-3 {
+    position: absolute;
+    left: 127px;
+  }
+}
+
+
+
+@media screen and (min-width: 376px) and (max-width: 413px)
+{
+  .about-us .div {
+    left: -10px;
+  }
+}

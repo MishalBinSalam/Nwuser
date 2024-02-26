@@ -1,0 +1,850 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit');
+@import url('https://fonts.googleapis.com/css?family=Fredoka One');
+@import url('https://fonts.googleapis.com/css2?family=Unbounded:wght@900&display=swap');
+
+
+.FAQ-s {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+  }
+  
+  .FAQ-s .div {
+    background-color: #ffffff;
+    width: 1440px;
+    height: 2063px;
+    position: relative;
+  }
+  
+  .FAQ-s .group {
+    position: absolute;
+    width: 273px;
+    height: 49px;
+    top: 65px;
+    left: 82px;
+    cursor: pointer;
+  }
+  
+  .FAQ-s .XMLID {
+    width: 92px;
+    height: 49px;
+    left: 0;
+    position: absolute;
+    top: 0;
+  }
+  
+  .FAQ-s .text-wrapper {
+    width: 170px;
+    top: 0;
+    left: 101px;
+    color: #123969;
+    font-size: 40px;
+    position: absolute;
+    font-family: "Fredoka One", Helvetica;
+    font-weight: 300;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .FAQ-s .frame {
+    position: absolute;
+    width: 1517px;
+    height: 434px;
+    top: 1649px;
+    left: -40px;
+    background-color: #123969;
+  }
+  
+  .FAQ-s .group-2 {
+    position: absolute;
+    width: 208px;
+    height: 98px;
+    top: 92px;
+    left: 90px;
+  }
+  
+  .FAQ-s .img {
+    width: 111px;
+    height: 59px;
+    left: 47px;
+    position: absolute;
+    top: 0;
+  }
+  
+  .FAQ-s .XMLID-2 {
+    width: 206px;
+    top: 60px;
+    left: 0;
+    color: #ffffff;
+    font-size: 48.4px;
+    position: absolute;
+    font-family: "Fredoka One", Helvetica;
+    font-weight: 300;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+
+  .FAQ-s .link{
+    color: #6999ff;
+   }
+
+   .FAQ-s .p {
+    position: absolute;
+    top: 370px;
+    left: 655px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .FAQ-s .group-3 {
+    position: absolute;
+    width: 179px;
+    height: 168px;
+    top: 92px;
+    left: 650px;
+  }
+  
+  .FAQ-s .text-wrapper-2 {
+    top: 56px;
+    left: 62px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 300;
+    color: #ffffff;
+    font-size: 18px;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+    text-decoration: none;
+    cursor: pointer;
+  }
+
+  .FAQ-s .text-wrapper-99 {
+    position: absolute;
+    top: 85px;
+    left: 79px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 300;
+    color: #9c9c9c;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+    text-decoration: none;
+    cursor: pointer;
+  }
+
+  .FAQ-s .text-wrapper-3 {
+    position: absolute;
+    top: 114px;
+    left: 46px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 300;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  
+  .FAQ-s .text-wrapper-4 {
+    position: absolute;
+    top: 143px;
+    left: 47px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 300;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  
+  .FAQ-s .terms-conditions {
+    position: absolute;
+    top: 172px;
+    left: 25px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 300;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  
+  .FAQ-s .text-wrapper-5 {
+    position: absolute;
+    top: 0;
+    left: 20px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .FAQ-s .text-wrapper-6 {
+    position: absolute;
+    top: 91px;
+    left: 1226px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .FAQ-s .instagram-svgrepo {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 163px;
+    left: 1199px;
+    background-image: url(./img/Vector00.png);
+    background-size: 100% 100%;
+  }
+  
+  .FAQ-s .facebook-svgrepo-com {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    top: 158px;
+    left: 1248px;
+  }
+  
+  .FAQ-s .vector {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    top: 0px;
+    left: 0px;
+  }
+  
+  .FAQ-s .pinterest-logo {
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    top: 161px;
+    left: 1304px;
+  }
+  
+  .FAQ-s .twitter-svgrepo {
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    top: 162px;
+    left: 1358px;
+  }
+  
+  .FAQ-s .text-wrapper-7 {
+    position: absolute;
+    top: 394px;
+    left: 600px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 10px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .FAQ-s .frame-2 {
+    position: absolute;
+    width: 1062px;
+    height: 1230px;
+    top: 224px;
+    left: 189px;
+    background-color: #ffffff;
+    box-shadow: 0px 1.83px 43.88px #0000001a;
+  }
+  
+  .FAQ-s .text-wrapper-8 {
+    position: absolute;
+    top: 35px;
+    left: 183px;
+    font-family: "Unbounded", Helvetica;
+    font-weight: 600;
+    color: #123969;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .FAQ-s .what-is-nearwala-app {
+    position: absolute;
+    width: 825px;
+    top: 135px;
+    left: 119px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 25px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .FAQ-s .span {
+    font-weight: 700;
+  }
+  
+  .FAQ-s .text-wrapper-9 {
+    font-family: "Outfit", Helvetica;
+    font-size: 17px;
+  }
+
+
+
+  @media screen and (min-width: 1599px) and (max-width: 1601px)
+  {
+    .FAQ-s .frame {
+      width: 1590px;
+      left: -80px;
+    }
+    .FAQ-s .group-3 {
+      left: 700px;
+    }
+    .FAQ-s .text-wrapper-6 {
+      left: 1290px;
+    }
+    
+    .FAQ-s .instagram-svgrepo {
+      left: 1264px;
+    }
+    
+    .FAQ-s .vector {
+      left: 85px;
+    }
+    
+    .FAQ-s .pinterest-logo {
+      left: 1369px;
+    }
+    
+    .FAQ-s .twitter-svgrepo {
+      left: 1423px;
+    }
+    
+    .FAQ-s .text-wrapper-7 {
+      left: 665px;
+    }
+    .FAQ-s .p {
+      left: 705px;
+    }
+    .FAQ-s .facebook-svgrepo-com {
+      left: 1227px;
+    }
+  }
+
+
+
+  @media screen and (min-width: 1439px) and (max-width: 1440px)
+  {
+    .FAQ-s .frame {
+      width: 1455px;
+    }
+  }
+
+
+  @media screen and (min-width: 1365px) and (max-width: 1366px) 
+  {
+    .FAQ-s .frame {
+      width: 1400px;
+      left: -60px;
+    }
+    .FAQ-s .frame-2 {
+      left: 150px;
+    }
+    .FAQ-s .text-wrapper-6 {
+      left: 1180px;
+    }
+    
+    .FAQ-s .instagram-svgrepo {
+      left: 1154px;
+    }
+    
+    .FAQ-s .vector {
+      left: 85px;
+    }
+    
+    .FAQ-s .pinterest-logo {
+      left: 1259px;
+    }
+    
+    .FAQ-s .twitter-svgrepo {
+      left: 1313px;
+    }
+    
+    .FAQ-s .text-wrapper-7 {
+      left: 555px;
+    }
+    .FAQ-s .facebook-svgrepo-com {
+      left: 1117px;
+    }
+    .FAQ-s .p {
+      left: 615px;
+    }
+    .FAQ-s .group-3 {
+      left: 610px;
+    }
+  }
+
+
+  @media screen and (min-width: 1359px) and (max-width: 1361px) 
+  {
+    .FAQ-s .frame {
+      width: 1395px;
+      left: -60px;
+    }
+    .FAQ-s .frame-2 {
+      left: 150px;
+    }
+    .FAQ-s .text-wrapper-6 {
+      left: 1180px;
+    }
+    
+    .FAQ-s .instagram-svgrepo {
+      left: 1154px;
+    }
+    
+    .FAQ-s .vector {
+      left: 85px;
+    }
+    
+    .FAQ-s .pinterest-logo {
+      left: 1259px;
+    }
+    
+    .FAQ-s .twitter-svgrepo {
+      left: 1313px;
+    }
+    
+    .FAQ-s .text-wrapper-7 {
+      left: 555px;
+    }
+    .FAQ-s .facebook-svgrepo-com {
+      left: 1117px;
+    }
+    .FAQ-s .p {
+      left: 615px;
+    }
+    .FAQ-s .group-3 {
+      left: 610px;
+    }
+  }
+
+
+  @media screen and (min-width: 1279px) and (max-width: 1280px) 
+  {
+    .FAQ-s .frame {
+      width: 1345px;
+      left: -90px;
+    }
+    .FAQ-s .frame-2 {
+      left: 100px;
+    }
+    .FAQ-s .text-wrapper-6 {
+      left: 1125px;
+    }
+    
+    .FAQ-s .instagram-svgrepo {
+      left: 1099px;
+    }
+    
+    .FAQ-s .vector {
+      left: -20px;
+    }
+    
+    .FAQ-s .pinterest-logo {
+      left: 1204px;
+    }
+    
+    .FAQ-s .twitter-svgrepo {
+      left: 1258px;
+    }
+    .FAQ-s .facebook-svgrepo-com {
+      left: 1168px;
+    }
+    .FAQ-s .group-3 {
+      left: 610px;
+    }
+    .FAQ-s .p {
+      left: 615px;
+    }
+    .FAQ-s .group-2 {
+      left: 120px;
+    }
+  }
+
+
+  @media screen and (min-width: 1920px) 
+  {
+    .FAQ-s .frame {
+      width: 1900px;
+      left: -240px;
+    }
+
+    .FAQ-s .group {
+      left: -100px;
+    }
+
+    .FAQ-s .group-3 {
+      position: absolute;
+      left: 850px;
+    }
+
+    .FAQ-s .text-wrapper-6 {
+      left: 1595px;
+    }
+    
+    .FAQ-s .instagram-svgrepo {
+      left: 1569px;
+    }
+    
+    .FAQ-s .vector {
+      left: 410px;
+    }
+    
+    .FAQ-s .pinterest-logo {
+      left: 1674px;
+    }
+    
+    .FAQ-s .twitter-svgrepo {
+      left: 1728px;
+    }
+
+    .FAQ-s .text-wrapper-7 {
+      left: 815px;
+    }
+    .FAQ-s .p {
+      left: 840px;
+    }
+  }
+
+
+
+
+
+
+  @media screen and (max-width: 640px) 
+  {
+    .FAQ-s {
+      background-color: #ffffff;
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+      width: 100%;
+    }
+    
+    .FAQ-s .div {
+      background-color: #ffffff;
+      width: 390px;
+      height: 1466px;
+      position: relative;
+    }
+    
+    .FAQ-s .group {
+      position: absolute;
+      width: 152px;
+      height: 27px;
+      top: 24px;
+      left: 19px;
+    }
+    
+    .FAQ-s .XMLID {
+      position: absolute;
+      width: 51px;
+      height: 27px;
+      top: 0;
+      left: 0;
+    }
+    
+    .FAQ-s .text-wrapper {
+      position: absolute;
+      width: 94px;
+      top: 0;
+      left: 56px;
+      font-weight: 300;
+      color: #123969;
+      font-size: 22.1px;
+    }
+    
+    .FAQ-s .frame {
+      position: absolute;
+      width: 390px;
+      height: 615px;
+      top: 861px;
+      left: 0;
+      background-color: #123969;
+    }
+  
+    .FAQ-s .group-2 {
+      position: absolute;
+      width: 152px;
+      height: 71px;
+      top: 447px;
+      left: 120px;
+    }
+    
+    .FAQ-s .img {
+      position: absolute;
+      width: 81px;
+      height: 43px;
+      top: 0;
+      left: 34px;
+    }
+    
+    .FAQ-s .XMLID-2 {
+      position: absolute;
+      width: 150px;
+      top: 44px;
+      left: 0;
+      font-family: "Fredoka One", Helvetica;
+      font-weight: 300;
+      color: #ffffff;
+      font-size: 35.3px;
+    }
+    
+    .FAQ-s .p {
+      position: absolute;
+      top: 568px;
+      left: 114px;
+      font-weight: 400;
+      font-size: 10px;
+    }
+    
+    .FAQ-s .group-3 {
+      position: absolute;
+      width: 164px;
+      height: 183px;
+      top: 47px;
+      left: 119px;
+    }
+    
+    .FAQ-s .text-wrapper-2 {
+      top: 44px;
+      left: 40px;
+      font-weight: 300;
+      font-size: 18px;
+      position: absolute;
+    }
+  
+    .FAQ-s .text-wrapper-99 {
+      position: absolute;
+      top: 73px;
+      left: 53px;
+      font-weight: 300;
+      font-size: 18px;
+    }
+  
+    .FAQ-s .text-wrapper-3 {
+      position: absolute;
+      top: 102px;
+      left: 21px;
+      font-weight: 300;
+      font-size: 18px;
+    }
+    
+    .FAQ-s .text-wrapper-4 {
+      position: absolute;
+      top: 131px;
+      left: 23px;
+      font-weight: 300;
+      font-size: 18px;
+    }
+    
+    .FAQ-s .terms-conditions {
+      position: absolute;
+      top: 160px;
+      left: 0;
+      font-family: "Outfit", Helvetica;
+      font-weight: 300;
+      color: #ffffff;
+      font-size: 18px;
+      letter-spacing: 0;
+      line-height: normal;
+    }
+    
+    .FAQ-s .text-wrapper-5 {
+      position: absolute;
+      top: 0;
+      left: 9px;
+      font-weight: 600;
+      font-size: 25px;
+    }
+    
+    .FAQ-s .text-wrapper-6 {
+      position: absolute;
+      top: 290px;
+      left: 140px;
+      font-weight: 600;
+      font-size: 25px;
+    }
+    
+    .FAQ-s .instagram-svgrepo {
+      position: absolute;
+      width: 25px;
+      height: 25px;
+      top: 340px;
+      left: 113px;
+      background-size: 100% 100%;
+    }
+    
+    .FAQ-s .facebook-svgrepo-com {
+      position: absolute;
+      width: 30px;
+      height: 30px;
+      top: 336px;
+      left: 153px;
+    }
+    
+    .FAQ-s .vector {
+      position: absolute;
+      width: 34px;
+      height: 34px;
+      top: 0px;
+      left: 0px;
+    }
+    
+    .FAQ-s .pinterest-logo {
+      position: absolute;
+      width: 31px;
+      height: 31px;
+      top: 338px;
+      left: 198px;
+    }
+    
+    .FAQ-s .twitter-svgrepo {
+      position: absolute;
+      width: 33px;
+      height: 33px;
+      top: 338px;
+      left: 243px;
+    }
+    
+    .FAQ-s .text-wrapper-7 {
+      position: absolute;
+      top: 583px;
+      left: 97px;
+      font-weight: 400;
+      font-size: 8px;
+    }
+    
+    .FAQ-s .frame-2 {
+      position: absolute;
+      width: 358px;
+      height: 690px;
+      top: 118px;
+      left: 16px;
+      background-color: #ffffff;
+      box-shadow: 0px 1.83px 43.88px #0000001a;
+    }
+    
+    .FAQ-s .text-wrapper-8 {
+      top: 27px;
+      left: 0px;
+      font-family: "Unbounded", Helvetica;
+      font-weight: 600;
+      color: #123969;
+      font-size: 20px;
+      text-align: center;
+      position: absolute;
+    }
+    
+    .FAQ-s .what-is-nearwala-app {
+      position: absolute;
+      width: 310px;
+      top: 94px;
+      left: 24px;
+      line-height: 10px;
+    }
+    
+    .FAQ-s .span {
+      color: #000000;
+      font-size: 13px;
+    }
+    
+    .FAQ-s .text-wrapper-9 {
+      font-family: "Outfit", Helvetica;
+      font-weight: 300;
+      color: #000000;
+      font-size: 10px;
+    }
+  }
+
+
+
+  @media screen and (min-width: 410px) and (max-width: 435px)
+  {
+    .FAQ-s .frame {
+      position: relative;
+      width: 416px;
+      left: -13px;
+  }
+  .FAQ-s .text-wrapper-5 {
+      position: absolute;
+      top: 0;
+      left: -1px;
+ }
+ .FAQ-s .text-wrapper-6 {
+     position: absolute;
+     left: 145px;
+ }
+ .FAQ-s .group-2 {
+  position: absolute;
+  left: 125px;
+}
+.FAQ-s .p {
+  position: absolute;
+  left: 126px;
+}
+.FAQ-s .instagram-svgrepo {
+  position: absolute;
+  left: 128px;
+}
+
+.FAQ-s .facebook-svgrepo-com {
+  position: absolute;
+  left: 168px;
+}
+
+.FAQ-s .vector {
+  position: absolute;
+  width: 34px;
+  height: 34px;
+  top: 0px;
+  left: 0px;
+}
+
+.FAQ-s .pinterest-logo {
+  position: absolute;
+  left: 213px;
+}
+
+.FAQ-s .twitter-svgrepo {
+  position: absolute;
+  left: 258px;
+}
+.FAQ-s .group-3 {
+  position: absolute;
+  left: 127px;
+}
+}
+
+
+@media screen and (min-width: 376px) and (max-width: 413px)
+{
+  .FAQ-s .div {
+    left: -10px;
+  }
+}
